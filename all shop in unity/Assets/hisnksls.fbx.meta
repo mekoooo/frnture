@@ -1,0 +1,1707 @@
+fileFormatVersion: 2
+guid: 9e0be0eaa2a317a41b111b854867672a
+timeCreated: 1557602763
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: group
+    100002: group1
+    100004: group2
+    100006: group3
+    100008: group4
+    100010: group5
+    100012: group6
+    100014: //RootNode
+    100016: pasted__back
+    100018: pasted__base
+    100020: pasted__base 1
+    100022: pasted__base 2
+    100024: pasted__bed_1
+    100026: pasted__blanket
+    100028: pasted__chair_3
+    100030: pasted__coffee_table_1
+    100032: pasted__doors
+    100034: pasted__doors 1
+    100036: pasted__group
+    100038: pasted__group17_pasted__group16_pasted__pasted__pasted__pCube11_pasted__pasted__polySurface6
+    100040: pasted__group23
+    100042: pasted__group24
+    100044: pasted__group25
+    100046: pasted__group26
+    100048: pasted__group27
+    100050: pasted__group29
+    100052: pasted__group30
+    100054: pasted__group31
+    100056: pasted__group32
+    100058: pasted__group34
+    100060: pasted__group36
+    100062: pasted__group37
+    100064: pasted__group38
+    100066: pasted__group39
+    100068: pasted__group40
+    100070: pasted__group41
+    100072: pasted__group42
+    100074: pasted__group43
+    100076: pasted__group44
+    100078: pasted__group46
+    100080: pasted__group48
+    100082: pasted__group49
+    100084: pasted__group51
+    100086: pasted__group52
+    100088: pasted__group53
+    100090: pasted__group54
+    100092: pasted__group55
+    100094: pasted__group56
+    100096: pasted__group57
+    100098: pasted__group58
+    100100: pasted__group59
+    100102: pasted__group60
+    100104: pasted__group61
+    100106: pasted__group62
+    100108: pasted__group63
+    100110: pasted__group67
+    100112: pasted__group9
+    100114: pasted__handles
+    100116: pasted__kitchen_chair_1
+    100118: pasted__kitchen_chair_2
+    100120: pasted__mattress
+    100122: pasted__mattress 1
+    100124: pasted__metal
+    100126: pasted__metal 1
+    100128: pasted__metal 2
+    100130: pasted__pasted__back
+    100132: pasted__pasted__base
+    100134: pasted__pasted__base 1
+    100136: pasted__pasted__base 2
+    100138: pasted__pasted__base1
+    100140: pasted__pasted__base2
+    100142: pasted__pasted__base3
+    100144: pasted__pasted__base4
+    100146: pasted__pasted__base5
+    100148: pasted__pasted__base6
+    100150: pasted__pasted__base7
+    100152: pasted__pasted__base8
+    100154: pasted__pasted__group
+    100156: pasted__pasted__group1
+    100158: pasted__pasted__group2
+    100160: pasted__pasted__group23
+    100162: pasted__pasted__group25
+    100164: pasted__pasted__group29
+    100166: pasted__pasted__group29 1
+    100168: pasted__pasted__group29 2
+    100170: pasted__pasted__group29 3
+    100172: pasted__pasted__group29 4
+    100174: pasted__pasted__group29 5
+    100176: pasted__pasted__group29 6
+    100178: pasted__pasted__group3
+    100180: pasted__pasted__group30
+    100182: pasted__pasted__group30 1
+    100184: pasted__pasted__group30 2
+    100186: pasted__pasted__group31
+    100188: pasted__pasted__group31 1
+    100190: pasted__pasted__group31 2
+    100192: pasted__pasted__group32
+    100194: pasted__pasted__group32 1
+    100196: pasted__pasted__group32 2
+    100198: pasted__pasted__group34
+    100200: pasted__pasted__group34 1
+    100202: pasted__pasted__group34 2
+    100204: pasted__pasted__group35
+    100206: pasted__pasted__group37
+    100208: pasted__pasted__group3_pasted__group1_pasted__pasted__group53_pasted__pasted__pasted__wood
+    100210: pasted__pasted__group4
+    100212: pasted__pasted__group46
+    100214: pasted__pasted__group5
+    100216: pasted__pasted__group56
+    100218: pasted__pasted__group57
+    100220: pasted__pasted__group58
+    100222: pasted__pasted__group6
+    100224: pasted__pasted__group9
+    100226: pasted__pasted__group9 1
+    100228: pasted__pasted__group9 2
+    100230: pasted__pasted__pasted__back
+    100232: pasted__pasted__pasted__back 1
+    100234: pasted__pasted__pasted__base
+    100236: pasted__pasted__pasted__base 1
+    100238: pasted__pasted__pasted__base 2
+    100240: pasted__pasted__pasted__base 3
+    100242: pasted__pasted__pasted__base 4
+    100244: pasted__pasted__pasted__Box055
+    100246: pasted__pasted__pasted__group1
+    100248: pasted__pasted__pasted__group1 1
+    100250: pasted__pasted__pasted__group1 2
+    100252: pasted__pasted__pasted__group1 3
+    100254: pasted__pasted__pasted__group2
+    100256: pasted__pasted__pasted__group25
+    100258: pasted__pasted__pasted__group29
+    100260: pasted__pasted__pasted__group29 1
+    100262: pasted__pasted__pasted__group29 10
+    100264: pasted__pasted__pasted__group29 11
+    100266: pasted__pasted__pasted__group29 2
+    100268: pasted__pasted__pasted__group29 3
+    100270: pasted__pasted__pasted__group29 4
+    100272: pasted__pasted__pasted__group29 5
+    100274: pasted__pasted__pasted__group29 6
+    100276: pasted__pasted__pasted__group29 7
+    100278: pasted__pasted__pasted__group29 8
+    100280: pasted__pasted__pasted__group29 9
+    100282: pasted__pasted__pasted__group3
+    100284: pasted__pasted__pasted__group5
+    100286: pasted__pasted__pasted__group53
+    100288: pasted__pasted__pasted__group56
+    100290: pasted__pasted__pasted__group57
+    100292: pasted__pasted__pasted__group9
+    100294: pasted__pasted__pasted__pasted__base
+    100296: pasted__pasted__pasted__pasted__base 1
+    100298: pasted__pasted__pasted__pasted__base 2
+    100300: pasted__pasted__pasted__pasted__base 3
+    100302: pasted__pasted__pasted__pasted__Box055
+    100304: pasted__pasted__pasted__pasted__CabDoor6
+    100306: pasted__pasted__pasted__pasted__dining_chair_leg_009
+    100308: pasted__pasted__pasted__pasted__Faucet
+    100310: pasted__pasted__pasted__pasted__group1
+    100312: pasted__pasted__pasted__pasted__group1 1
+    100314: pasted__pasted__pasted__pasted__group1 2
+    100316: pasted__pasted__pasted__pasted__group25
+    100318: pasted__pasted__pasted__pasted__group53
+    100320: pasted__pasted__pasted__pasted__group53 1
+    100322: pasted__pasted__pasted__pasted__group53 2
+    100324: pasted__pasted__pasted__pasted__group53 3
+    100326: pasted__pasted__pasted__pasted__group56
+    100328: pasted__pasted__pasted__pasted__group9
+    100330: pasted__pasted__pasted__pasted__ModCouch
+    100332: pasted__pasted__pasted__pasted__pasted__group25
+    100334: pasted__pasted__pasted__pasted__pasted__group53
+    100336: pasted__pasted__pasted__pasted__pasted__group53 1
+    100338: pasted__pasted__pasted__pasted__pasted__group53 2
+    100340: pasted__pasted__pasted__pasted__pasted__group9
+    100342: pasted__pasted__pasted__pasted__pasted__pasted__group9
+    100344: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube6
+    100346: pasted__pasted__pasted__pasted__pasted__pasted__pCube6
+    100348: pasted__pasted__pasted__pasted__pasted__pasted__wood
+    100350: pasted__pasted__pasted__pasted__pasted__pasted__wood 1
+    100352: pasted__pasted__pasted__pasted__pasted__pasted__wood 2
+    100354: pasted__pasted__pasted__pasted__pasted__pCube2
+    100356: pasted__pasted__pasted__pasted__pasted__pCube6
+    100358: pasted__pasted__pasted__pasted__pasted__wood
+    100360: pasted__pasted__pasted__pasted__pasted__wood 1
+    100362: pasted__pasted__pasted__pasted__pasted__wood 2
+    100364: pasted__pasted__pasted__pasted__pasted__wood 3
+    100366: pasted__pasted__pasted__pasted__pCube6
+    100368: pasted__pasted__pasted__pasted__plafond
+    100370: pasted__pasted__pasted__pasted__plafond 1
+    100372: pasted__pasted__pasted__pasted__plafond 2
+    100374: pasted__pasted__pasted__pasted__plafond 3
+    100376: pasted__pasted__pasted__pasted__plafond 4
+    100378: pasted__pasted__pasted__pasted__plafond 5
+    100380: pasted__pasted__pasted__pasted__plafond 6
+    100382: pasted__pasted__pasted__pasted__plafond 7
+    100384: pasted__pasted__pasted__pasted__pSphere1
+    100386: pasted__pasted__pasted__pasted__pSphere1 1
+    100388: pasted__pasted__pasted__pasted__pSphere1 2
+    100390: pasted__pasted__pasted__pasted__pSphere1 3
+    100392: pasted__pasted__pasted__pasted__torchere_1
+    100394: pasted__pasted__pasted__pasted__torchere_1 1
+    100396: pasted__pasted__pasted__pasted__torchere_1 10
+    100398: pasted__pasted__pasted__pasted__torchere_1 11
+    100400: pasted__pasted__pasted__pasted__torchere_1 2
+    100402: pasted__pasted__pasted__pasted__torchere_1 3
+    100404: pasted__pasted__pasted__pasted__torchere_1 4
+    100406: pasted__pasted__pasted__pasted__torchere_1 5
+    100408: pasted__pasted__pasted__pasted__torchere_1 6
+    100410: pasted__pasted__pasted__pasted__torchere_1 7
+    100412: pasted__pasted__pasted__pasted__torchere_1 8
+    100414: pasted__pasted__pasted__pasted__torchere_1 9
+    100416: pasted__pasted__pasted__pasted__wood
+    100418: pasted__pasted__pasted__pCube1
+    100420: pasted__pasted__pasted__pCube4
+    100422: pasted__pasted__pasted__pCube6
+    100424: pasted__pasted__pasted__pCube6 1
+    100426: pasted__pasted__pasted__pCube6 2
+    100428: pasted__pasted__pasted__plafond
+    100430: pasted__pasted__pasted__plafond 1
+    100432: pasted__pasted__pasted__plafond 2
+    100434: pasted__pasted__pasted__plafond 3
+    100436: pasted__pasted__pasted__plafond 4
+    100438: pasted__pasted__pasted__plafond 5
+    100440: pasted__pasted__pasted__plafond1
+    100442: pasted__pasted__pasted__plafond2
+    100444: pasted__pasted__pasted__plafond3
+    100446: pasted__pasted__pasted__plafond4
+    100448: pasted__pasted__pasted__plafond5
+    100450: pasted__pasted__pasted__plafond6
+    100452: pasted__pasted__pasted__plafond7
+    100454: pasted__pasted__pasted__plafond8
+    100456: pasted__pasted__pasted__pSphere1
+    100458: pasted__pasted__pasted__pSphere1 1
+    100460: pasted__pasted__pasted__pSphere1 2
+    100462: pasted__pasted__pasted__pSphere1 3
+    100464: pasted__pasted__pasted__pSphere1 4
+    100466: pasted__pasted__pasted__torchere_1
+    100468: pasted__pasted__pasted__torchere_1 1
+    100470: pasted__pasted__pasted__torchere_1 2
+    100472: pasted__pasted__pasted__torchere_1 3
+    100474: pasted__pasted__pasted__torchere_1 4
+    100476: pasted__pasted__pasted__torchere_1 5
+    100478: pasted__pasted__pasted__torchere_1 6
+    100480: pasted__pasted__pCube3
+    100482: pasted__pasted__pCube3 1
+    100484: pasted__pasted__pCube4
+    100486: pasted__pasted__pCube6
+    100488: pasted__pasted__plafond
+    100490: pasted__pasted__plafond 1
+    100492: pasted__pasted__pSphere1
+    100494: pasted__pasted__pSphere2
+    100496: pasted__pasted__pSphere3
+    100498: pasted__pasted__pSphere4
+    100500: pasted__pasted__pSphere5
+    100502: pasted__pasted__pSphere6
+    100504: pasted__pasted__pSphere7
+    100506: pasted__pasted__pSphere8
+    100508: pasted__pasted__pSphere9
+    100510: pasted__pasted__seat
+    100512: pasted__pasted__torchere_1
+    100514: pasted__pasted__transform1
+    100516: pasted__pasted__transform2
+    100518: pasted__pasted__transform3
+    100520: pasted__pasted__transform4
+    100522: pasted__pasted__transform5
+    100524: pasted__pasted__transform6
+    100526: pasted__pasted__transform7
+    100528: pasted__pasted__transform8
+    100530: pasted__pasted__transform9
+    100532: pasted__pasted__up
+    100534: pasted__pasted__vase_5
+    100536: pasted__pasted__wood
+    100538: pasted__pasted__wood_004
+    100540: pasted__pCube1
+    100542: pasted__pCube3
+    100544: pasted__pCube4
+    100546: pasted__pCube5
+    100548: pasted__pillow
+    100550: pasted__pillow 1
+    100552: pasted__seat
+    100554: pasted__seat 1
+    100556: pasted__seat 2
+    100558: pasted__seat004
+    100560: pasted__seat004 1
+    100562: pasted__transform1
+    100564: pasted__transform1 1
+    100566: pasted__transform1 2
+    100568: pasted__transform1 3
+    100570: pasted__transform1 4
+    100572: pasted__transform1 5
+    100574: pasted__transform2
+    100576: pasted__transform2 1
+    100578: pasted__transform2 2
+    100580: pasted__transform2 3
+    100582: pasted__transform2 4
+    100584: pasted__transform2 5
+    100586: pasted__transform3
+    100588: pasted__transform3 1
+    100590: pasted__transform3 2
+    100592: pasted__transform3 3
+    100594: pasted__transform4
+    100596: pasted__transform4 1
+    100598: pasted__transform5
+    100600: pasted__tv_table_3
+    100602: pasted__up
+    100604: pasted__up 1
+    100606: pasted__wood
+    100608: pasted__wood_003
+    100610: pasted__wood_004
+    400000: group
+    400002: group1
+    400004: group2
+    400006: group3
+    400008: group4
+    400010: group5
+    400012: group6
+    400014: //RootNode
+    400016: pasted__back
+    400018: pasted__base
+    400020: pasted__base 1
+    400022: pasted__base 2
+    400024: pasted__bed_1
+    400026: pasted__blanket
+    400028: pasted__chair_3
+    400030: pasted__coffee_table_1
+    400032: pasted__doors
+    400034: pasted__doors 1
+    400036: pasted__group
+    400038: pasted__group17_pasted__group16_pasted__pasted__pasted__pCube11_pasted__pasted__polySurface6
+    400040: pasted__group23
+    400042: pasted__group24
+    400044: pasted__group25
+    400046: pasted__group26
+    400048: pasted__group27
+    400050: pasted__group29
+    400052: pasted__group30
+    400054: pasted__group31
+    400056: pasted__group32
+    400058: pasted__group34
+    400060: pasted__group36
+    400062: pasted__group37
+    400064: pasted__group38
+    400066: pasted__group39
+    400068: pasted__group40
+    400070: pasted__group41
+    400072: pasted__group42
+    400074: pasted__group43
+    400076: pasted__group44
+    400078: pasted__group46
+    400080: pasted__group48
+    400082: pasted__group49
+    400084: pasted__group51
+    400086: pasted__group52
+    400088: pasted__group53
+    400090: pasted__group54
+    400092: pasted__group55
+    400094: pasted__group56
+    400096: pasted__group57
+    400098: pasted__group58
+    400100: pasted__group59
+    400102: pasted__group60
+    400104: pasted__group61
+    400106: pasted__group62
+    400108: pasted__group63
+    400110: pasted__group67
+    400112: pasted__group9
+    400114: pasted__handles
+    400116: pasted__kitchen_chair_1
+    400118: pasted__kitchen_chair_2
+    400120: pasted__mattress
+    400122: pasted__mattress 1
+    400124: pasted__metal
+    400126: pasted__metal 1
+    400128: pasted__metal 2
+    400130: pasted__pasted__back
+    400132: pasted__pasted__base
+    400134: pasted__pasted__base 1
+    400136: pasted__pasted__base 2
+    400138: pasted__pasted__base1
+    400140: pasted__pasted__base2
+    400142: pasted__pasted__base3
+    400144: pasted__pasted__base4
+    400146: pasted__pasted__base5
+    400148: pasted__pasted__base6
+    400150: pasted__pasted__base7
+    400152: pasted__pasted__base8
+    400154: pasted__pasted__group
+    400156: pasted__pasted__group1
+    400158: pasted__pasted__group2
+    400160: pasted__pasted__group23
+    400162: pasted__pasted__group25
+    400164: pasted__pasted__group29
+    400166: pasted__pasted__group29 1
+    400168: pasted__pasted__group29 2
+    400170: pasted__pasted__group29 3
+    400172: pasted__pasted__group29 4
+    400174: pasted__pasted__group29 5
+    400176: pasted__pasted__group29 6
+    400178: pasted__pasted__group3
+    400180: pasted__pasted__group30
+    400182: pasted__pasted__group30 1
+    400184: pasted__pasted__group30 2
+    400186: pasted__pasted__group31
+    400188: pasted__pasted__group31 1
+    400190: pasted__pasted__group31 2
+    400192: pasted__pasted__group32
+    400194: pasted__pasted__group32 1
+    400196: pasted__pasted__group32 2
+    400198: pasted__pasted__group34
+    400200: pasted__pasted__group34 1
+    400202: pasted__pasted__group34 2
+    400204: pasted__pasted__group35
+    400206: pasted__pasted__group37
+    400208: pasted__pasted__group3_pasted__group1_pasted__pasted__group53_pasted__pasted__pasted__wood
+    400210: pasted__pasted__group4
+    400212: pasted__pasted__group46
+    400214: pasted__pasted__group5
+    400216: pasted__pasted__group56
+    400218: pasted__pasted__group57
+    400220: pasted__pasted__group58
+    400222: pasted__pasted__group6
+    400224: pasted__pasted__group9
+    400226: pasted__pasted__group9 1
+    400228: pasted__pasted__group9 2
+    400230: pasted__pasted__pasted__back
+    400232: pasted__pasted__pasted__back 1
+    400234: pasted__pasted__pasted__base
+    400236: pasted__pasted__pasted__base 1
+    400238: pasted__pasted__pasted__base 2
+    400240: pasted__pasted__pasted__base 3
+    400242: pasted__pasted__pasted__base 4
+    400244: pasted__pasted__pasted__Box055
+    400246: pasted__pasted__pasted__group1
+    400248: pasted__pasted__pasted__group1 1
+    400250: pasted__pasted__pasted__group1 2
+    400252: pasted__pasted__pasted__group1 3
+    400254: pasted__pasted__pasted__group2
+    400256: pasted__pasted__pasted__group25
+    400258: pasted__pasted__pasted__group29
+    400260: pasted__pasted__pasted__group29 1
+    400262: pasted__pasted__pasted__group29 10
+    400264: pasted__pasted__pasted__group29 11
+    400266: pasted__pasted__pasted__group29 2
+    400268: pasted__pasted__pasted__group29 3
+    400270: pasted__pasted__pasted__group29 4
+    400272: pasted__pasted__pasted__group29 5
+    400274: pasted__pasted__pasted__group29 6
+    400276: pasted__pasted__pasted__group29 7
+    400278: pasted__pasted__pasted__group29 8
+    400280: pasted__pasted__pasted__group29 9
+    400282: pasted__pasted__pasted__group3
+    400284: pasted__pasted__pasted__group5
+    400286: pasted__pasted__pasted__group53
+    400288: pasted__pasted__pasted__group56
+    400290: pasted__pasted__pasted__group57
+    400292: pasted__pasted__pasted__group9
+    400294: pasted__pasted__pasted__pasted__base
+    400296: pasted__pasted__pasted__pasted__base 1
+    400298: pasted__pasted__pasted__pasted__base 2
+    400300: pasted__pasted__pasted__pasted__base 3
+    400302: pasted__pasted__pasted__pasted__Box055
+    400304: pasted__pasted__pasted__pasted__CabDoor6
+    400306: pasted__pasted__pasted__pasted__dining_chair_leg_009
+    400308: pasted__pasted__pasted__pasted__Faucet
+    400310: pasted__pasted__pasted__pasted__group1
+    400312: pasted__pasted__pasted__pasted__group1 1
+    400314: pasted__pasted__pasted__pasted__group1 2
+    400316: pasted__pasted__pasted__pasted__group25
+    400318: pasted__pasted__pasted__pasted__group53
+    400320: pasted__pasted__pasted__pasted__group53 1
+    400322: pasted__pasted__pasted__pasted__group53 2
+    400324: pasted__pasted__pasted__pasted__group53 3
+    400326: pasted__pasted__pasted__pasted__group56
+    400328: pasted__pasted__pasted__pasted__group9
+    400330: pasted__pasted__pasted__pasted__ModCouch
+    400332: pasted__pasted__pasted__pasted__pasted__group25
+    400334: pasted__pasted__pasted__pasted__pasted__group53
+    400336: pasted__pasted__pasted__pasted__pasted__group53 1
+    400338: pasted__pasted__pasted__pasted__pasted__group53 2
+    400340: pasted__pasted__pasted__pasted__pasted__group9
+    400342: pasted__pasted__pasted__pasted__pasted__pasted__group9
+    400344: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube6
+    400346: pasted__pasted__pasted__pasted__pasted__pasted__pCube6
+    400348: pasted__pasted__pasted__pasted__pasted__pasted__wood
+    400350: pasted__pasted__pasted__pasted__pasted__pasted__wood 1
+    400352: pasted__pasted__pasted__pasted__pasted__pasted__wood 2
+    400354: pasted__pasted__pasted__pasted__pasted__pCube2
+    400356: pasted__pasted__pasted__pasted__pasted__pCube6
+    400358: pasted__pasted__pasted__pasted__pasted__wood
+    400360: pasted__pasted__pasted__pasted__pasted__wood 1
+    400362: pasted__pasted__pasted__pasted__pasted__wood 2
+    400364: pasted__pasted__pasted__pasted__pasted__wood 3
+    400366: pasted__pasted__pasted__pasted__pCube6
+    400368: pasted__pasted__pasted__pasted__plafond
+    400370: pasted__pasted__pasted__pasted__plafond 1
+    400372: pasted__pasted__pasted__pasted__plafond 2
+    400374: pasted__pasted__pasted__pasted__plafond 3
+    400376: pasted__pasted__pasted__pasted__plafond 4
+    400378: pasted__pasted__pasted__pasted__plafond 5
+    400380: pasted__pasted__pasted__pasted__plafond 6
+    400382: pasted__pasted__pasted__pasted__plafond 7
+    400384: pasted__pasted__pasted__pasted__pSphere1
+    400386: pasted__pasted__pasted__pasted__pSphere1 1
+    400388: pasted__pasted__pasted__pasted__pSphere1 2
+    400390: pasted__pasted__pasted__pasted__pSphere1 3
+    400392: pasted__pasted__pasted__pasted__torchere_1
+    400394: pasted__pasted__pasted__pasted__torchere_1 1
+    400396: pasted__pasted__pasted__pasted__torchere_1 10
+    400398: pasted__pasted__pasted__pasted__torchere_1 11
+    400400: pasted__pasted__pasted__pasted__torchere_1 2
+    400402: pasted__pasted__pasted__pasted__torchere_1 3
+    400404: pasted__pasted__pasted__pasted__torchere_1 4
+    400406: pasted__pasted__pasted__pasted__torchere_1 5
+    400408: pasted__pasted__pasted__pasted__torchere_1 6
+    400410: pasted__pasted__pasted__pasted__torchere_1 7
+    400412: pasted__pasted__pasted__pasted__torchere_1 8
+    400414: pasted__pasted__pasted__pasted__torchere_1 9
+    400416: pasted__pasted__pasted__pasted__wood
+    400418: pasted__pasted__pasted__pCube1
+    400420: pasted__pasted__pasted__pCube4
+    400422: pasted__pasted__pasted__pCube6
+    400424: pasted__pasted__pasted__pCube6 1
+    400426: pasted__pasted__pasted__pCube6 2
+    400428: pasted__pasted__pasted__plafond
+    400430: pasted__pasted__pasted__plafond 1
+    400432: pasted__pasted__pasted__plafond 2
+    400434: pasted__pasted__pasted__plafond 3
+    400436: pasted__pasted__pasted__plafond 4
+    400438: pasted__pasted__pasted__plafond 5
+    400440: pasted__pasted__pasted__plafond1
+    400442: pasted__pasted__pasted__plafond2
+    400444: pasted__pasted__pasted__plafond3
+    400446: pasted__pasted__pasted__plafond4
+    400448: pasted__pasted__pasted__plafond5
+    400450: pasted__pasted__pasted__plafond6
+    400452: pasted__pasted__pasted__plafond7
+    400454: pasted__pasted__pasted__plafond8
+    400456: pasted__pasted__pasted__pSphere1
+    400458: pasted__pasted__pasted__pSphere1 1
+    400460: pasted__pasted__pasted__pSphere1 2
+    400462: pasted__pasted__pasted__pSphere1 3
+    400464: pasted__pasted__pasted__pSphere1 4
+    400466: pasted__pasted__pasted__torchere_1
+    400468: pasted__pasted__pasted__torchere_1 1
+    400470: pasted__pasted__pasted__torchere_1 2
+    400472: pasted__pasted__pasted__torchere_1 3
+    400474: pasted__pasted__pasted__torchere_1 4
+    400476: pasted__pasted__pasted__torchere_1 5
+    400478: pasted__pasted__pasted__torchere_1 6
+    400480: pasted__pasted__pCube3
+    400482: pasted__pasted__pCube3 1
+    400484: pasted__pasted__pCube4
+    400486: pasted__pasted__pCube6
+    400488: pasted__pasted__plafond
+    400490: pasted__pasted__plafond 1
+    400492: pasted__pasted__pSphere1
+    400494: pasted__pasted__pSphere2
+    400496: pasted__pasted__pSphere3
+    400498: pasted__pasted__pSphere4
+    400500: pasted__pasted__pSphere5
+    400502: pasted__pasted__pSphere6
+    400504: pasted__pasted__pSphere7
+    400506: pasted__pasted__pSphere8
+    400508: pasted__pasted__pSphere9
+    400510: pasted__pasted__seat
+    400512: pasted__pasted__torchere_1
+    400514: pasted__pasted__transform1
+    400516: pasted__pasted__transform2
+    400518: pasted__pasted__transform3
+    400520: pasted__pasted__transform4
+    400522: pasted__pasted__transform5
+    400524: pasted__pasted__transform6
+    400526: pasted__pasted__transform7
+    400528: pasted__pasted__transform8
+    400530: pasted__pasted__transform9
+    400532: pasted__pasted__up
+    400534: pasted__pasted__vase_5
+    400536: pasted__pasted__wood
+    400538: pasted__pasted__wood_004
+    400540: pasted__pCube1
+    400542: pasted__pCube3
+    400544: pasted__pCube4
+    400546: pasted__pCube5
+    400548: pasted__pillow
+    400550: pasted__pillow 1
+    400552: pasted__seat
+    400554: pasted__seat 1
+    400556: pasted__seat 2
+    400558: pasted__seat004
+    400560: pasted__seat004 1
+    400562: pasted__transform1
+    400564: pasted__transform1 1
+    400566: pasted__transform1 2
+    400568: pasted__transform1 3
+    400570: pasted__transform1 4
+    400572: pasted__transform1 5
+    400574: pasted__transform2
+    400576: pasted__transform2 1
+    400578: pasted__transform2 2
+    400580: pasted__transform2 3
+    400582: pasted__transform2 4
+    400584: pasted__transform2 5
+    400586: pasted__transform3
+    400588: pasted__transform3 1
+    400590: pasted__transform3 2
+    400592: pasted__transform3 3
+    400594: pasted__transform4
+    400596: pasted__transform4 1
+    400598: pasted__transform5
+    400600: pasted__tv_table_3
+    400602: pasted__up
+    400604: pasted__up 1
+    400606: pasted__wood
+    400608: pasted__wood_003
+    400610: pasted__wood_004
+    2300000: pasted__doors
+    2300002: pasted__group17_pasted__group16_pasted__pasted__pasted__pCube11_pasted__pasted__polySurface6
+    2300004: pasted__mattress
+    2300006: pasted__metal
+    2300008: pasted__pasted__back
+    2300010: pasted__pasted__base
+    2300012: pasted__pasted__base 1
+    2300014: pasted__pasted__base 2
+    2300016: pasted__pasted__base1
+    2300018: pasted__pasted__base2
+    2300020: pasted__pasted__base3
+    2300022: pasted__pasted__base4
+    2300024: pasted__pasted__base5
+    2300026: pasted__pasted__base6
+    2300028: pasted__pasted__base7
+    2300030: pasted__pasted__base8
+    2300032: pasted__pasted__group3_pasted__group1_pasted__pasted__group53_pasted__pasted__pasted__wood
+    2300034: pasted__pasted__pasted__back
+    2300036: pasted__pasted__pasted__back 1
+    2300038: pasted__pasted__pasted__base
+    2300040: pasted__pasted__pasted__base 1
+    2300042: pasted__pasted__pasted__base 2
+    2300044: pasted__pasted__pasted__base 3
+    2300046: pasted__pasted__pasted__base 4
+    2300048: pasted__pasted__pasted__Box055
+    2300050: pasted__pasted__pasted__pasted__base
+    2300052: pasted__pasted__pasted__pasted__base 1
+    2300054: pasted__pasted__pasted__pasted__base 2
+    2300056: pasted__pasted__pasted__pasted__base 3
+    2300058: pasted__pasted__pasted__pasted__Box055
+    2300060: pasted__pasted__pasted__pasted__CabDoor6
+    2300062: pasted__pasted__pasted__pasted__dining_chair_leg_009
+    2300064: pasted__pasted__pasted__pasted__Faucet
+    2300066: pasted__pasted__pasted__pasted__ModCouch
+    2300068: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube6
+    2300070: pasted__pasted__pasted__pasted__pasted__pasted__pCube6
+    2300072: pasted__pasted__pasted__pasted__pasted__pCube2
+    2300074: pasted__pasted__pasted__pasted__pasted__pCube6
+    2300076: pasted__pasted__pasted__pasted__pCube6
+    2300078: pasted__pasted__pasted__pasted__plafond
+    2300080: pasted__pasted__pasted__pasted__plafond 1
+    2300082: pasted__pasted__pasted__pasted__plafond 2
+    2300084: pasted__pasted__pasted__pasted__plafond 3
+    2300086: pasted__pasted__pasted__pasted__plafond 4
+    2300088: pasted__pasted__pasted__pasted__plafond 5
+    2300090: pasted__pasted__pasted__pasted__plafond 6
+    2300092: pasted__pasted__pasted__pasted__plafond 7
+    2300094: pasted__pasted__pasted__pasted__pSphere1
+    2300096: pasted__pasted__pasted__pasted__pSphere1 1
+    2300098: pasted__pasted__pasted__pasted__pSphere1 2
+    2300100: pasted__pasted__pasted__pasted__pSphere1 3
+    2300102: pasted__pasted__pasted__pCube4
+    2300104: pasted__pasted__pasted__pCube6
+    2300106: pasted__pasted__pasted__pCube6 1
+    2300108: pasted__pasted__pasted__pCube6 2
+    2300110: pasted__pasted__pasted__plafond
+    2300112: pasted__pasted__pasted__plafond 1
+    2300114: pasted__pasted__pasted__plafond 2
+    2300116: pasted__pasted__pasted__plafond 3
+    2300118: pasted__pasted__pasted__plafond 4
+    2300120: pasted__pasted__pasted__plafond 5
+    2300122: pasted__pasted__pasted__plafond1
+    2300124: pasted__pasted__pasted__plafond2
+    2300126: pasted__pasted__pasted__plafond3
+    2300128: pasted__pasted__pasted__plafond4
+    2300130: pasted__pasted__pasted__plafond5
+    2300132: pasted__pasted__pasted__plafond6
+    2300134: pasted__pasted__pasted__plafond7
+    2300136: pasted__pasted__pasted__plafond8
+    2300138: pasted__pasted__pasted__pSphere1
+    2300140: pasted__pasted__pasted__pSphere1 1
+    2300142: pasted__pasted__pasted__pSphere1 2
+    2300144: pasted__pasted__pasted__pSphere1 3
+    2300146: pasted__pasted__pasted__pSphere1 4
+    2300148: pasted__pasted__pCube3
+    2300150: pasted__pasted__pCube3 1
+    2300152: pasted__pasted__pCube4
+    2300154: pasted__pasted__pCube6
+    2300156: pasted__pasted__plafond
+    2300158: pasted__pasted__plafond 1
+    2300160: pasted__pasted__pSphere1
+    2300162: pasted__pasted__pSphere2
+    2300164: pasted__pasted__pSphere3
+    2300166: pasted__pasted__pSphere4
+    2300168: pasted__pasted__pSphere5
+    2300170: pasted__pasted__pSphere6
+    2300172: pasted__pasted__pSphere7
+    2300174: pasted__pasted__pSphere8
+    2300176: pasted__pasted__pSphere9
+    2300178: pasted__pasted__seat
+    2300180: pasted__pasted__up
+    2300182: pasted__pasted__vase_5
+    2300184: pasted__pasted__wood
+    2300186: pasted__pasted__wood_004
+    2300188: pasted__pCube1
+    2300190: pasted__pCube3
+    2300192: pasted__pCube4
+    2300194: pasted__pCube5
+    2300196: pasted__seat
+    2300198: pasted__seat004
+    2300200: pasted__up
+    3300000: pasted__doors
+    3300002: pasted__group17_pasted__group16_pasted__pasted__pasted__pCube11_pasted__pasted__polySurface6
+    3300004: pasted__mattress
+    3300006: pasted__metal
+    3300008: pasted__pasted__back
+    3300010: pasted__pasted__base
+    3300012: pasted__pasted__base 1
+    3300014: pasted__pasted__base 2
+    3300016: pasted__pasted__base1
+    3300018: pasted__pasted__base2
+    3300020: pasted__pasted__base3
+    3300022: pasted__pasted__base4
+    3300024: pasted__pasted__base5
+    3300026: pasted__pasted__base6
+    3300028: pasted__pasted__base7
+    3300030: pasted__pasted__base8
+    3300032: pasted__pasted__group3_pasted__group1_pasted__pasted__group53_pasted__pasted__pasted__wood
+    3300034: pasted__pasted__pasted__back
+    3300036: pasted__pasted__pasted__back 1
+    3300038: pasted__pasted__pasted__base
+    3300040: pasted__pasted__pasted__base 1
+    3300042: pasted__pasted__pasted__base 2
+    3300044: pasted__pasted__pasted__base 3
+    3300046: pasted__pasted__pasted__base 4
+    3300048: pasted__pasted__pasted__Box055
+    3300050: pasted__pasted__pasted__pasted__base
+    3300052: pasted__pasted__pasted__pasted__base 1
+    3300054: pasted__pasted__pasted__pasted__base 2
+    3300056: pasted__pasted__pasted__pasted__base 3
+    3300058: pasted__pasted__pasted__pasted__Box055
+    3300060: pasted__pasted__pasted__pasted__CabDoor6
+    3300062: pasted__pasted__pasted__pasted__dining_chair_leg_009
+    3300064: pasted__pasted__pasted__pasted__Faucet
+    3300066: pasted__pasted__pasted__pasted__ModCouch
+    3300068: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube6
+    3300070: pasted__pasted__pasted__pasted__pasted__pasted__pCube6
+    3300072: pasted__pasted__pasted__pasted__pasted__pCube2
+    3300074: pasted__pasted__pasted__pasted__pasted__pCube6
+    3300076: pasted__pasted__pasted__pasted__pCube6
+    3300078: pasted__pasted__pasted__pasted__plafond
+    3300080: pasted__pasted__pasted__pasted__plafond 1
+    3300082: pasted__pasted__pasted__pasted__plafond 2
+    3300084: pasted__pasted__pasted__pasted__plafond 3
+    3300086: pasted__pasted__pasted__pasted__plafond 4
+    3300088: pasted__pasted__pasted__pasted__plafond 5
+    3300090: pasted__pasted__pasted__pasted__plafond 6
+    3300092: pasted__pasted__pasted__pasted__plafond 7
+    3300094: pasted__pasted__pasted__pasted__pSphere1
+    3300096: pasted__pasted__pasted__pasted__pSphere1 1
+    3300098: pasted__pasted__pasted__pasted__pSphere1 2
+    3300100: pasted__pasted__pasted__pasted__pSphere1 3
+    3300102: pasted__pasted__pasted__pCube4
+    3300104: pasted__pasted__pasted__pCube6
+    3300106: pasted__pasted__pasted__pCube6 1
+    3300108: pasted__pasted__pasted__pCube6 2
+    3300110: pasted__pasted__pasted__plafond
+    3300112: pasted__pasted__pasted__plafond 1
+    3300114: pasted__pasted__pasted__plafond 2
+    3300116: pasted__pasted__pasted__plafond 3
+    3300118: pasted__pasted__pasted__plafond 4
+    3300120: pasted__pasted__pasted__plafond 5
+    3300122: pasted__pasted__pasted__plafond1
+    3300124: pasted__pasted__pasted__plafond2
+    3300126: pasted__pasted__pasted__plafond3
+    3300128: pasted__pasted__pasted__plafond4
+    3300130: pasted__pasted__pasted__plafond5
+    3300132: pasted__pasted__pasted__plafond6
+    3300134: pasted__pasted__pasted__plafond7
+    3300136: pasted__pasted__pasted__plafond8
+    3300138: pasted__pasted__pasted__pSphere1
+    3300140: pasted__pasted__pasted__pSphere1 1
+    3300142: pasted__pasted__pasted__pSphere1 2
+    3300144: pasted__pasted__pasted__pSphere1 3
+    3300146: pasted__pasted__pasted__pSphere1 4
+    3300148: pasted__pasted__pCube3
+    3300150: pasted__pasted__pCube3 1
+    3300152: pasted__pasted__pCube4
+    3300154: pasted__pasted__pCube6
+    3300156: pasted__pasted__plafond
+    3300158: pasted__pasted__plafond 1
+    3300160: pasted__pasted__pSphere1
+    3300162: pasted__pasted__pSphere2
+    3300164: pasted__pasted__pSphere3
+    3300166: pasted__pasted__pSphere4
+    3300168: pasted__pasted__pSphere5
+    3300170: pasted__pasted__pSphere6
+    3300172: pasted__pasted__pSphere7
+    3300174: pasted__pasted__pSphere8
+    3300176: pasted__pasted__pSphere9
+    3300178: pasted__pasted__seat
+    3300180: pasted__pasted__up
+    3300182: pasted__pasted__vase_5
+    3300184: pasted__pasted__wood
+    3300186: pasted__pasted__wood_004
+    3300188: pasted__pCube1
+    3300190: pasted__pCube3
+    3300192: pasted__pCube4
+    3300194: pasted__pCube5
+    3300196: pasted__seat
+    3300198: pasted__seat004
+    3300200: pasted__up
+    4300000: pasted__pCube3
+    4300002: pasted__pCube4
+    4300004: pasted__pCube5
+    4300006: pasted__pasted__pCube6
+    4300008: pasted__group17_pasted__group16_pasted__pasted__pasted__pCube11_pasted__pasted__polySurface6
+    4300010: pasted__pasted__pCube4
+    4300012: pasted__pasted__pasted__pCube4
+    4300014: pasted__pasted__pasted__pCube6
+    4300016: pasted__pasted__pasted__pCube6
+    4300018: pasted__pasted__pasted__pCube6
+    4300020: pasted__pasted__base
+    4300022: pasted__pasted__plafond
+    4300024: pasted__pasted__base1
+    4300026: pasted__pasted__base2
+    4300028: pasted__pasted__base3
+    4300030: pasted__pasted__base4
+    4300032: pasted__pasted__base5
+    4300034: pasted__pasted__base6
+    4300036: pasted__pasted__base7
+    4300038: pasted__pasted__base8
+    4300040: pasted__pasted__pSphere1
+    4300042: pasted__pasted__pSphere2
+    4300044: pasted__pasted__pSphere3
+    4300046: pasted__pasted__pSphere4
+    4300048: pasted__pasted__pSphere5
+    4300050: pasted__pasted__pSphere6
+    4300052: pasted__pasted__pSphere7
+    4300054: pasted__pasted__pSphere8
+    4300056: pasted__pasted__pSphere9
+    4300058: pasted__pasted__pasted__base
+    4300060: pasted__pasted__pasted__plafond
+    4300062: pasted__pasted__pasted__pSphere1
+    4300064: pasted__pasted__pasted__base
+    4300066: pasted__pasted__pasted__plafond
+    4300068: pasted__pasted__pasted__pSphere1
+    4300070: pasted__pasted__pasted__base
+    4300072: pasted__pasted__pasted__plafond
+    4300074: pasted__pasted__pasted__pSphere1
+    4300076: pasted__pasted__pasted__base
+    4300078: pasted__pasted__pasted__plafond
+    4300080: pasted__pasted__pasted__pSphere1
+    4300082: pasted__pCube1
+    4300084: pasted__pasted__pasted__back
+    4300086: pasted__pasted__vase_5
+    4300088: pasted__pasted__back
+    4300090: pasted__pasted__pasted__back
+    4300092: pasted__pasted__base
+    4300094: pasted__pasted__plafond
+    4300096: pasted__pasted__pasted__pasted__Faucet
+    4300098: pasted__pasted__pasted__pasted__CabDoor6
+    4300100: pasted__pasted__pasted__pasted__pasted__pCube2
+    4300102: pasted__pasted__pasted__pasted__dining_chair_leg_009
+    4300104: pasted__pasted__pasted__Box055
+    4300106: pasted__pasted__pCube3
+    4300108: pasted__pasted__pCube3
+    4300110: pasted__pasted__up
+    4300112: pasted__pasted__seat
+    4300114: pasted__pasted__wood_004
+    4300116: pasted__pasted__wood
+    4300118: pasted__pasted__base
+    4300120: pasted__pasted__pasted__pasted__ModCouch
+    4300122: pasted__pasted__pasted__pasted__pCube6
+    4300124: pasted__pasted__pasted__pasted__pasted__pCube6
+    4300126: pasted__pasted__pasted__pasted__pasted__pasted__pCube6
+    4300128: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pCube6
+    4300130: pasted__pasted__pasted__plafond
+    4300132: pasted__pasted__pasted__plafond1
+    4300134: pasted__pasted__pasted__plafond2
+    4300136: pasted__pasted__pasted__plafond3
+    4300138: pasted__pasted__pasted__plafond4
+    4300140: pasted__pasted__pasted__plafond5
+    4300142: pasted__pasted__pasted__plafond6
+    4300144: pasted__pasted__pasted__plafond7
+    4300146: pasted__pasted__pasted__plafond8
+    4300148: pasted__pasted__pasted__pasted__plafond
+    4300150: pasted__pasted__pasted__pasted__plafond
+    4300152: pasted__pasted__pasted__pasted__plafond
+    4300154: pasted__pasted__pasted__pasted__plafond
+    4300156: pasted__pasted__pasted__plafond
+    4300158: pasted__pasted__pasted__pasted__plafond
+    4300160: pasted__pasted__pasted__pasted__plafond
+    4300162: pasted__pasted__pasted__pasted__plafond
+    4300164: pasted__pasted__pasted__pasted__plafond
+    4300166: pasted__pasted__pasted__base
+    4300168: pasted__pasted__pasted__pSphere1
+    4300170: pasted__pasted__pasted__pasted__base
+    4300172: pasted__pasted__pasted__pasted__pSphere1
+    4300174: pasted__pasted__pasted__pasted__base
+    4300176: pasted__pasted__pasted__pasted__pSphere1
+    4300178: pasted__pasted__pasted__pasted__base
+    4300180: pasted__pasted__pasted__pasted__pSphere1
+    4300182: pasted__pasted__pasted__pasted__base
+    4300184: pasted__pasted__pasted__pasted__pSphere1
+    4300186: pasted__pasted__pasted__pasted__Box055
+    4300188: pasted__pasted__group3_pasted__group1_pasted__pasted__group53_pasted__pasted__pasted__wood
+    4300190: pasted__seat
+    4300192: pasted__seat004
+    4300194: pasted__metal
+    4300196: pasted__mattress
+    4300198: pasted__up
+    4300200: pasted__doors
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn1
+    second: {fileID: 2100000, guid: 4f945911a6873da429956896c97135d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__blinn3
+    second: {fileID: 2100000, guid: 9fe8cc6ce7044d046b73ec587a4d248b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert11
+    second: {fileID: 2100000, guid: 7d64ba857265d7f48b35113a02bdecb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert12
+    second: {fileID: 2100000, guid: 2b239a25b28d4bc42b5d60514158eacf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert13
+    second: {fileID: 2100000, guid: 9ce3aa4222c9cf8448a51ba4eb52f555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert15
+    second: {fileID: 2100000, guid: 11ae540868eb05f46afa00ff2a5682b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert16
+    second: {fileID: 2100000, guid: ef4ee1354416eb147a89d0b654687421, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert17
+    second: {fileID: 2100000, guid: d7bb7bf3908a28243af62b916ebadf51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert18
+    second: {fileID: 2100000, guid: e01ba6024602bbd46956cdc6e62d7fb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert19
+    second: {fileID: 2100000, guid: c756de44db5344b4f894e64d25f272f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert2
+    second: {fileID: 2100000, guid: 808b9606f6f134c46ae94be97359db2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert20
+    second: {fileID: 2100000, guid: 3c8e9fcea1ecfab4abcb93937968e897, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert21
+    second: {fileID: 2100000, guid: 97638defae4c34641b2ed88f64f8221d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert22
+    second: {fileID: 2100000, guid: c756de44db5344b4f894e64d25f272f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert23
+    second: {fileID: 2100000, guid: 3ce49c0e4c6927e438abf2dc9ebb2cad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert24
+    second: {fileID: 2100000, guid: 85149f993f58b4441a853be58fb4fb66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert25
+    second: {fileID: 2100000, guid: 3ce49c0e4c6927e438abf2dc9ebb2cad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert26
+    second: {fileID: 2100000, guid: 0d15b2ac732abf146924023fdba138d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert27
+    second: {fileID: 2100000, guid: 9f8be4911b5dbee4fad9c709323ddd48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert3
+    second: {fileID: 2100000, guid: 9f06dc2ed84ebcf4a8aaab70d17dfc69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert4
+    second: {fileID: 2100000, guid: ecd8dd2c21b095347b7ec7420cdf540a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert5
+    second: {fileID: 2100000, guid: 69d83348ff8d5f8478f021e4f7c287e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert6
+    second: {fileID: 2100000, guid: 7d36aab3d56b80c49a66da6967600564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert7
+    second: {fileID: 2100000, guid: 57196932228a54c47831cd9481768277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert8
+    second: {fileID: 2100000, guid: 5ebc249d493e9644baf786a97cb3fd2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__blinn1
+    second: {fileID: 2100000, guid: 3ce49c0e4c6927e438abf2dc9ebb2cad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__blinn4
+    second: {fileID: 2100000, guid: 579cf2db3db05b742a415bea7d4cbd30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__blinn5
+    second: {fileID: 2100000, guid: 0738ee852b707994b8f863991d755487, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__blinn6
+    second: {fileID: 2100000, guid: 4367019f50e35bd4ba171341c1e083e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert10
+    second: {fileID: 2100000, guid: 1d986f92f8c063842ac772a8c1386f0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert11
+    second: {fileID: 2100000, guid: 44b53453e9b6cf94f88eddd560a44fee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert12
+    second: {fileID: 2100000, guid: e4166f6aeaaa92d4eba444226a4dd1a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert13
+    second: {fileID: 2100000, guid: 86c86aaffc076754b9edad7a87cae77a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert14
+    second: {fileID: 2100000, guid: 74388407b16df824486bf3f5ac1f0ccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert15
+    second: {fileID: 2100000, guid: bb9bde46c5c934d449649ea84014b0a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert16
+    second: {fileID: 2100000, guid: bf99456034f056843a14fd71ae045fe7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert17
+    second: {fileID: 2100000, guid: e2cdc9883b4fce44cb5b1fef0640ba6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert18
+    second: {fileID: 2100000, guid: efda9b9f1c6983d4eb3fac5216b20c8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert19
+    second: {fileID: 2100000, guid: 80498bf4e1dc17a48b0d0e0f70aea1ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert2
+    second: {fileID: 2100000, guid: 9aca8b7054d845b489995e6800497686, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert20
+    second: {fileID: 2100000, guid: 1ebf8932701eb984aa19c321ff9dd6a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert21
+    second: {fileID: 2100000, guid: 8c9ae334405c406489878f4138762ca4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert22
+    second: {fileID: 2100000, guid: efda9b9f1c6983d4eb3fac5216b20c8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert23
+    second: {fileID: 2100000, guid: 16d6c81dea1ff0b4cbb0b15ec1cc09e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert26
+    second: {fileID: 2100000, guid: 2127f224c50b187448b33402808f5bdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert28
+    second: {fileID: 2100000, guid: 9f8be4911b5dbee4fad9c709323ddd48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert29
+    second: {fileID: 2100000, guid: 18b4ca2184518bb4b87ba5fd68ff6eb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert3
+    second: {fileID: 2100000, guid: 303b735ad2d5d5d4984690692ec2b6cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert30
+    second: {fileID: 2100000, guid: 69d83348ff8d5f8478f021e4f7c287e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert31
+    second: {fileID: 2100000, guid: f575dc6fd9f4ecc488a5cbec82b8c6b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert32
+    second: {fileID: 2100000, guid: 9f66d4f56c9c87b43a206c98d4204842, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert33
+    second: {fileID: 2100000, guid: 69d83348ff8d5f8478f021e4f7c287e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert34
+    second: {fileID: 2100000, guid: 9f8be4911b5dbee4fad9c709323ddd48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert35
+    second: {fileID: 2100000, guid: 9f8be4911b5dbee4fad9c709323ddd48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert36
+    second: {fileID: 2100000, guid: ce7321ab362c6c44f93e263b5b3324b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert37
+    second: {fileID: 2100000, guid: 3918a87192b44f24f800f63c99079a93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert38
+    second: {fileID: 2100000, guid: cc99fd9c02ee8554db8fe4e28ac079e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert39
+    second: {fileID: 2100000, guid: 6e4f8a615eb1fe74ca4613fae4f075a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert4
+    second: {fileID: 2100000, guid: ecd8dd2c21b095347b7ec7420cdf540a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert40
+    second: {fileID: 2100000, guid: 8cdc71bd35308714297d2434b63b8c53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert41
+    second: {fileID: 2100000, guid: fbeb8322fb495544584a817f061dfbfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert42
+    second: {fileID: 2100000, guid: 9abd673b6d3b954498c550493c925b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert43
+    second: {fileID: 2100000, guid: ba956462227b45249b5d21d6a987d31d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert44
+    second: {fileID: 2100000, guid: 1c6787012a9ae4e43971ffddf0656284, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert45
+    second: {fileID: 2100000, guid: 5e29664dd17f6594f91c862a85bfc989, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert46
+    second: {fileID: 2100000, guid: 7ce76e8104d47774a8fa02dc1cb55f8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert48
+    second: {fileID: 2100000, guid: ede6c0e5a9b3f4b49af5448f4100212a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert5
+    second: {fileID: 2100000, guid: 86c86aaffc076754b9edad7a87cae77a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert7
+    second: {fileID: 2100000, guid: c26ba0534d841ae4bb8864ae7ea0161a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert8
+    second: {fileID: 2100000, guid: 04f1ceed8a60d9a4794bf49a1d8e1b99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__lambert9
+    second: {fileID: 2100000, guid: 8cddd9f2a2a1cc5428c4c1a8fdf47b2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__blinn2
+    second: {fileID: 2100000, guid: 1040d74939f147943a5f15ce17d81d85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__izaz
+    second: {fileID: 2100000, guid: f34df1e133d308d4daf73ed7d2bd1c72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__izaz1
+    second: {fileID: 2100000, guid: 43fff28bd78edab428b23f666c5fa7fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__korse
+    second: {fileID: 2100000, guid: b61d269056824e54ba5080c33b4c92f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__korse1
+    second: {fileID: 2100000, guid: b61d269056824e54ba5080c33b4c92f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__lambert12
+    second: {fileID: 2100000, guid: 4029694d1c66b0144b5ad13fbf3d600d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__lambert13
+    second: {fileID: 2100000, guid: 4b0beac4c57566542bf6c22cc2cd67f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__lambert14
+    second: {fileID: 2100000, guid: ef4ee1354416eb147a89d0b654687421, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__lambert15
+    second: {fileID: 2100000, guid: 4a38d8c8c3323df44a244ae6af695f28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__lambert16
+    second: {fileID: 2100000, guid: 86c86aaffc076754b9edad7a87cae77a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__lambert17
+    second: {fileID: 2100000, guid: 114a9677292517943972bc9ec18630a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__lambert18
+    second: {fileID: 2100000, guid: 7ce76e8104d47774a8fa02dc1cb55f8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__lambert2
+    second: {fileID: 2100000, guid: 13b96baac779c0b41af430851718cd7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__lambert26
+    second: {fileID: 2100000, guid: 2127f224c50b187448b33402808f5bdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__lambert47
+    second: {fileID: 2100000, guid: 87132cab2966cd245b2d78cc879c3c0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__lambert5
+    second: {fileID: 2100000, guid: 9aa8cb28bd13ac24ebaaf63d18de0189, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__K__TableTop2
+    second: {fileID: 2100000, guid: 7d44469ec1287174f93c41d0e73e8345, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__aiStandard2
+    second: {fileID: 2100000, guid: b9c138643ab5f2142a660eef78d748d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__lambert17
+    second: {fileID: 2100000, guid: d78efe29f8d03a7459b92c7d1413472d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__lambert2
+    second: {fileID: 2100000, guid: 773f4a658791da74aab662a4042348ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__lambert42
+    second: {fileID: 2100000, guid: e3e3213a4542c6044970355a76854046, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__lambert43
+    second: {fileID: 2100000, guid: fe81f309c88f386418a95714a9cafa63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__lambert5
+    second: {fileID: 2100000, guid: 7bfa2355339d9a64da6a9c1d92fb2233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__lambert2
+    second: {fileID: 2100000, guid: 9171a1776a89dd64c8c275cec1231171, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__lambert42
+    second: {fileID: 2100000, guid: 77d784a7b81dbd14a9565b7014a7597e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__lambert43
+    second: {fileID: 2100000, guid: 79c5750253f95b54fa5b7d7c6bf65e05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__lambert44
+    second: {fileID: 2100000, guid: 944a6a9f24bbe4946b3769223b9828ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__lambert45
+    second: {fileID: 2100000, guid: 124c48aae221fc74db1e7a7b30ddfc98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__lambert46
+    second: {fileID: 2100000, guid: 806857765611ba044a55e07290886d4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__lambert48
+    second: {fileID: 2100000, guid: fb2778b68ef36e94bb3792c70ae9bad5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__lambert49
+    second: {fileID: 2100000, guid: 29cacb34a1414f5498ddff1a476ab1c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__lambert50
+    second: {fileID: 2100000, guid: 35b6c5f81bac6e84f96cfe1d480ee4d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__lambert2
+    second: {fileID: 2100000, guid: b39f84e83a33e434ea947dfffc416111, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__lambert42
+    second: {fileID: 2100000, guid: 16aa987d601cdd346b6b4890ecf85ddc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__lambert43
+    second: {fileID: 2100000, guid: 1b7916f34b51b734aaa9e9a3fba3fa7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__lambert44
+    second: {fileID: 2100000, guid: 81f92fad7560c4e48b452d576be2f84f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__lambert45
+    second: {fileID: 2100000, guid: 063963282dbcb114ab066f413e595d1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__lambert48
+    second: {fileID: 2100000, guid: fbc5f70a7d1e32740ae7f98ace0853ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__pasted__pasted__lambert49
+    second: {fileID: 2100000, guid: b66b36e2358c79549bcbf61cb276ee54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__phongE10
+    second: {fileID: 2100000, guid: e1b2e2d9babdcf044976ac2a8bcce927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__phongE11
+    second: {fileID: 2100000, guid: 262ae6dcb5da31643986130d43f5efb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__phongE12
+    second: {fileID: 2100000, guid: d14f9bb2ce555224ebf839a1e0dd5d5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__phongE13
+    second: {fileID: 2100000, guid: 19bcef1c5fae32a41b512a717bc5db77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__phongE14
+    second: {fileID: 2100000, guid: 970815d5751cfce4e98cfe15fffc07c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__phongE2
+    second: {fileID: 2100000, guid: db7e4577c0e3c9d4b9de5bf588a58d53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__phongE3
+    second: {fileID: 2100000, guid: 127d5c5800bfd7d4f9f9eddf5e71a80b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__phongE4
+    second: {fileID: 2100000, guid: 71cb411dcc05b7e40a7ddc2842dd5bde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__phongE6
+    second: {fileID: 2100000, guid: 807fbc1740db1f343834f8cfa8153e09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__phongE7
+    second: {fileID: 2100000, guid: 1626b52a416b7e64a966a8c17c09b1f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__phongE8
+    second: {fileID: 2100000, guid: 2fed876eca3b66b458d67b41386a4257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__pasted__phongE9
+    second: {fileID: 2100000, guid: c622978e392861240bb4faea2f4329d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__phong3
+    second: {fileID: 2100000, guid: 84d7daf5cb27f374bbde7a0de729103a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__phong6
+    second: {fileID: 2100000, guid: 3d03cde5ff0a78441a1356f9ac6c64f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__phongE1
+    second: {fileID: 2100000, guid: 03750b41c959b04439c483ee81582862, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__phongE2
+    second: {fileID: 2100000, guid: 4cc43fcb80caa6f4da8ba641bc805f0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__phongE3
+    second: {fileID: 2100000, guid: 61ae35b2cc03ae941854ffd0f0e15339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__phongE4
+    second: {fileID: 2100000, guid: 1733703539e4ee44abc2e495d1e93310, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__phongE6
+    second: {fileID: 2100000, guid: 01c506d501632214081ae74dd8d48037, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__phongE7
+    second: {fileID: 2100000, guid: b8734920d34975e428b474c677b9669c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__pasted__phongE8
+    second: {fileID: 2100000, guid: f1d660cd503ae3f4480206fee24b8977, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__phongE1
+    second: {fileID: 2100000, guid: f8e21c730caf3d946b369e8339371b9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__phongE2
+    second: {fileID: 2100000, guid: 9f8be4911b5dbee4fad9c709323ddd48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pasted__phongE3
+    second: {fileID: 2100000, guid: f575dc6fd9f4ecc488a5cbec82b8c6b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__phongE1
+    second: {fileID: 2100000, guid: 23475fc471873c943b9ed9b42beb107a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__wall_2
+    second: {fileID: 2100000, guid: 9420c11c8e441fb44b51be83722dadcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__wall_3
+    second: {fileID: 2100000, guid: 3ce4b423410667c4f8c7423d08eb8424, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__wall_4
+    second: {fileID: 2100000, guid: 7208454184a08c544a6756bfe2a23573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2100000, guid: 947b15da08d263049bc5cae694bc07d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_2
+    second: {fileID: 2100000, guid: 9ac10fb130dac5d4588f289dc0c8c857, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_3
+    second: {fileID: 2100000, guid: 14f51c8f623b0c946ba98af484df24c6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
